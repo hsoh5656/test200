@@ -1,1 +1,1 @@
-:wq:wq
+dd:wq:wq
